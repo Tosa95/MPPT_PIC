@@ -1,0 +1,55 @@
+build/default/production/main.o:  \
+main.c  \
+config.h  \
+GeneralTimers.h  \
+ stdTypes.h  \
+geometry.h  \
+basicTypes.h  \
+globalPinout.h  \
+controls.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/rampControl.h  \
+ stdTypes.h  \
+addressableBits.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/rosmeterControl.h  \
+ timeMeasurement.h  \
+display.h  \
+SPIDisplay.h  \
+consoleLike.h  \
+Graphics/GOL.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Primitive.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/GenericTypeDefs.h  \
+ GraphicsConfig.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ Graphics/Primitive.h  \
+Graphics/Button.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/GOL.h  \
+ MyGraph.h  \
+GenericTypeDefs.h  \
+ClockControl.h  \
+timer1.h  \
+timers.h  \
+ Graphics/StaticText.h  \
+ADC1Control.h  \
+addressableBits.h  \
+OC1Control.h  \
+ OCControl.h  \
+pwms.h  \
+pwms_graphic.h  \
+globalSettings.h  \
+timer3.h  \
+timer4.h  \
+ errorControl.h  \
+quantities.h  \
+mainSettingsScreen.h  \
+splashScreen.h  \
+ settingsSaving.h  \
+ControlLoop.h  \
+pwmSettingScreen1.h  \
+settingsExitCodes.h  \
+ pwmSettingScreen.h  \
+stabilityTestSettings.h  \
+batterySettingsScreen.h  \
+ TimeCounter.h  \
+flashWriting.h  \
+inverter.h 

@@ -1,0 +1,29 @@
+build/default/production/stabilityTestSettings.o:  \
+stabilityTestSettings.c  \
+ stabilityTestSettings.h  \
+settingsExitCodes.h  \
+Graphics/GOL.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Primitive.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/GenericTypeDefs.h  \
+ GraphicsConfig.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ discreteSetting.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/GOL.h  \
+ GenericTypeDefs.h  \
+stdTypes.h  \
+geometry.h  \
+basicTypes.h  \
+menuEntry.h  \
+ controls.h  \
+Graphics/StaticText.h  \
+myGraphicUtils.h  \
+Graphics/Primitive.h  \
+ GOLCallbacks.h  \
+SPIDisplay.h  \
+ClockControl.h  \
+Quantities.h  \
+globalSettings.h  \
+ menuLayoutManager.h  \
+pwms.h  \
+pwms_graphic.h 

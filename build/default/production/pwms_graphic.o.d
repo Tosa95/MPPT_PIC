@@ -1,0 +1,27 @@
+build/default/production/pwms_graphic.o:  \
+pwms_graphic.c  \
+pwms.h  \
+ pwms_graphic.h  \
+stdTypes.h  \
+geometry.h  \
+basicTypes.h  \
+globalSettings.h  \
+fan.h  \
+ graphics/GOL.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Primitive.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/GenericTypeDefs.h  \
+ GraphicsConfig.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ Graphics/Primitive.h  \
+Graphics/StaticText.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/GOL.h  \
+ controls.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/rampControl.h  \
+ stdTypes.h  \
+addressableBits.h  \
+timer3.h  \
+timer1.h  \
+timers.h  \
+errorControl.h  \
+ globalPinout.h 

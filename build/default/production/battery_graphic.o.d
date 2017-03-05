@@ -1,0 +1,31 @@
+build/default/production/battery_graphic.o:  \
+battery_graphic.c  \
+ graphics/GOL.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Primitive.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/GenericTypeDefs.h  \
+ GraphicsConfig.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ Graphics/Primitive.h  \
+Graphics/StaticText.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/GOL.h  \
+ BatteryDisplayer.h  \
+GenericTypeDefs.h  \
+stdTypes.h  \
+geometry.h  \
+basicTypes.h  \
+ battery.h  \
+battery_graphic.h  \
+globalSettings.h  \
+network.h  \
+controls.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/rampControl.h  \
+ stdTypes.h  \
+addressableBits.h  \
+timer3.h  \
+timer1.h  \
+timers.h  \
+errorControl.h  \
+ globalPinout.h  \
+flashWriting.h  \
+inverter.h 

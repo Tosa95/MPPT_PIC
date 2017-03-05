@@ -1,0 +1,19 @@
+build/default/production/menuEntry.o:  \
+menuEntry.c  \
+menuEntry.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/GOL.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Primitive.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/GenericTypeDefs.h  \
+ GraphicsConfig.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ GenericTypeDefs.h  \
+stdTypes.h  \
+geometry.h  \
+basicTypes.h  \
+ Graphics/DisplayDriver.h  \
+Graphics/gfxcolors.h  \
+HardwareProfile.h  \
+ Graphics/Primitive.h  \
+myGraphicUtils.h  \
+Graphics/GOL.h 

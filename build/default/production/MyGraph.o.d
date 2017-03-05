@@ -1,0 +1,28 @@
+build/default/production/MyGraph.o:  \
+MyGraph.c  \
+Graphics/Graphics.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/GenericTypeDefs.h  \
+ GraphicsConfig.h  \
+Graphics/DisplayDriver.h  \
+Graphics/gfxcolors.h  \
+ HardwareProfile.h  \
+Graphics/Primitive.h  \
+Graphics/GOL.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Primitive.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/gfxcolors.h  \
+ Graphics/ScanCodes.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Palette.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Graphics.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/Primitive.h  \
+ Graphics/Button.h  \
+ C:/microchip_solutions_v2013-02-15/Microchip/Include/Graphics/GOL.h  \
+ Graphics/StaticText.h  \
+Graphics/Slider.h  \
+Graphics/Picture.h  \
+ Graphics/ProgressBar.h  \
+Graphics/TextEntry.h  \
+MyGraph.h  \
+GenericTypeDefs.h  \
+ Graphics/Primitive.h  \
+SPIDisplay.h  \
+Graphics/DisplayDriver.h 
